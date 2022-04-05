@@ -1,0 +1,9 @@
+input:focus {
+    border-bottom: 1px solid #9b4b01 !important;
+    box-shadow: 0 1px 0 0 #9b9101 !important;
+  }
+
+  textarea:focus {
+    border-bottom: 1px solid #589b01 !important;
+    box-shadow: 0 1px 0 0 #003600 !important;
+  }
